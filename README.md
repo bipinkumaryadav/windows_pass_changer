@@ -7,4 +7,4 @@ This works only for Windows XP
 
 USAGE :--
 
-Just Open .exe file 
+Just Open password_changer.exe  file 
